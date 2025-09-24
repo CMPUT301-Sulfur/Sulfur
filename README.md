@@ -1,6 +1,6 @@
 # Sulfur
 
 CCID: balqasem
----------------------------
-Name: Adharsh Shokkalingam
-CCID: Shokkali
+#
+Name: Adharsh Shokkalingam, 
+ CCID: Shokkali
